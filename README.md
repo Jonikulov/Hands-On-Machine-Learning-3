@@ -14,7 +14,7 @@ Code examples used in the book "Hands-On Machine Learning with Scikit-Learn, Ker
 4. ReImplement every single code yourself (from scratch); Compare your solutions & code to author's (notebooks).
 5. After finishing a chapter or section, Build Your Own small Project that uses/applies the concepts that have learned.
 
-**TEMP_NOTE: 01.ipynb -> 4-step.**
+**TEMP_NOTE: COMPARE: 02.ipynb -> 1.**
 
 **Example project ideas based on Hands-On ML topics:**
 
