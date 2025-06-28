@@ -9,7 +9,7 @@ Code examples used in the book "Hands-On Machine Learning with Scikit-Learn, Ker
 
 -  Document Your Process.
 1. Code along with the Book; Apply the code of the book as it is & run.
-2. Experiment by tweaking parameters, modifying code, or using different datasets to see how changes affect the outcome, read documentation of libraries/frameworks.
+2. Experiment by tweaking parameters, modifying code, or using different datasets to see how changes affect the outcome, read documentation of libraries/frameworks --> *Understand*.
 3. Do Exercises.
 4. ReImplement every single code yourself (from scratch); Compare your solutions & code to author's (notebooks).
 5. After finishing a chapter or section, Build Your Own small Project that uses/applies the concepts that have learned.
